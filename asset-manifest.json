@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pan-zoom-test/static/css/main.fcbb8cc2.chunk.css",
-    "main.js": "/pan-zoom-test/static/js/main.c09906ac.chunk.js",
-    "main.js.map": "/pan-zoom-test/static/js/main.c09906ac.chunk.js.map",
+    "main.js": "/pan-zoom-test/static/js/main.af84917b.chunk.js",
+    "main.js.map": "/pan-zoom-test/static/js/main.af84917b.chunk.js.map",
     "runtime-main.js": "/pan-zoom-test/static/js/runtime-main.f7320839.js",
     "runtime-main.js.map": "/pan-zoom-test/static/js/runtime-main.f7320839.js.map",
     "static/css/2.1a0a2c47.chunk.css": "/pan-zoom-test/static/css/2.1a0a2c47.chunk.css",
     "static/js/2.a48bd610.chunk.js": "/pan-zoom-test/static/js/2.a48bd610.chunk.js",
     "static/js/2.a48bd610.chunk.js.map": "/pan-zoom-test/static/js/2.a48bd610.chunk.js.map",
     "index.html": "/pan-zoom-test/index.html",
-    "precache-manifest.705a0815179f652fa820309db0735596.js": "/pan-zoom-test/precache-manifest.705a0815179f652fa820309db0735596.js",
+    "precache-manifest.9dc24090ec4a1e33276bd44e681be89a.js": "/pan-zoom-test/precache-manifest.9dc24090ec4a1e33276bd44e681be89a.js",
     "service-worker.js": "/pan-zoom-test/service-worker.js",
     "static/css/2.1a0a2c47.chunk.css.map": "/pan-zoom-test/static/css/2.1a0a2c47.chunk.css.map",
     "static/css/main.fcbb8cc2.chunk.css.map": "/pan-zoom-test/static/css/main.fcbb8cc2.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.1a0a2c47.chunk.css",
     "static/js/2.a48bd610.chunk.js",
     "static/css/main.fcbb8cc2.chunk.css",
-    "static/js/main.c09906ac.chunk.js"
+    "static/js/main.af84917b.chunk.js"
   ]
 }
