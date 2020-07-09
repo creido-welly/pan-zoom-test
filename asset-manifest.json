@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/pan-zoom-test/static/css/main.b549f582.chunk.css",
-    "main.js": "/pan-zoom-test/static/js/main.a6d629f3.chunk.js",
-    "main.js.map": "/pan-zoom-test/static/js/main.a6d629f3.chunk.js.map",
+    "main.css": "/pan-zoom-test/static/css/main.fcbb8cc2.chunk.css",
+    "main.js": "/pan-zoom-test/static/js/main.c09906ac.chunk.js",
+    "main.js.map": "/pan-zoom-test/static/js/main.c09906ac.chunk.js.map",
     "runtime-main.js": "/pan-zoom-test/static/js/runtime-main.f7320839.js",
     "runtime-main.js.map": "/pan-zoom-test/static/js/runtime-main.f7320839.js.map",
-    "static/js/2.1bf41ec4.chunk.js": "/pan-zoom-test/static/js/2.1bf41ec4.chunk.js",
-    "static/js/2.1bf41ec4.chunk.js.map": "/pan-zoom-test/static/js/2.1bf41ec4.chunk.js.map",
+    "static/css/2.1a0a2c47.chunk.css": "/pan-zoom-test/static/css/2.1a0a2c47.chunk.css",
+    "static/js/2.a48bd610.chunk.js": "/pan-zoom-test/static/js/2.a48bd610.chunk.js",
+    "static/js/2.a48bd610.chunk.js.map": "/pan-zoom-test/static/js/2.a48bd610.chunk.js.map",
     "index.html": "/pan-zoom-test/index.html",
-    "precache-manifest.4f6f095d94fd599dec410f412688f14a.js": "/pan-zoom-test/precache-manifest.4f6f095d94fd599dec410f412688f14a.js",
+    "precache-manifest.705a0815179f652fa820309db0735596.js": "/pan-zoom-test/precache-manifest.705a0815179f652fa820309db0735596.js",
     "service-worker.js": "/pan-zoom-test/service-worker.js",
-    "static/css/main.b549f582.chunk.css.map": "/pan-zoom-test/static/css/main.b549f582.chunk.css.map",
-    "static/js/2.1bf41ec4.chunk.js.LICENSE.txt": "/pan-zoom-test/static/js/2.1bf41ec4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/pan-zoom-test/static/media/logo.5d5d9eef.svg",
-    "static/media/photo-landscape.jpg": "/pan-zoom-test/static/media/photo-landscape.98750280.jpg",
-    "static/media/photo-portrait.jpg": "/pan-zoom-test/static/media/photo-portrait.21132db0.jpg"
+    "static/css/2.1a0a2c47.chunk.css.map": "/pan-zoom-test/static/css/2.1a0a2c47.chunk.css.map",
+    "static/css/main.fcbb8cc2.chunk.css.map": "/pan-zoom-test/static/css/main.fcbb8cc2.chunk.css.map",
+    "static/js/2.a48bd610.chunk.js.LICENSE.txt": "/pan-zoom-test/static/js/2.a48bd610.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pan-zoom-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f7320839.js",
-    "static/js/2.1bf41ec4.chunk.js",
-    "static/css/main.b549f582.chunk.css",
-    "static/js/main.a6d629f3.chunk.js"
+    "static/css/2.1a0a2c47.chunk.css",
+    "static/js/2.a48bd610.chunk.js",
+    "static/css/main.fcbb8cc2.chunk.css",
+    "static/js/main.c09906ac.chunk.js"
   ]
 }
